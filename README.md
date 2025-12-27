@@ -1,1 +1,2 @@
 # Basic_Neural_Network_and_BackProp
+Creating a basic Neural Network from scratch and build the greate understanding of Back Propagation and other little funtionality like activation function, learning rate, parameters tuning, etc and take the reference from the Andrej Karpathy's youtube video "https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2"-> go and check out his video
